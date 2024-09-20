@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">透明壁纸</string>
+
+    <string name="_lease_open_permissions">请允许获取摄像头权限</string>
+
+    <string name="btn1">打开后置摄像头做壁纸</string>
+    <string name="btn2">打开前置摄像头做壁纸</string>
+    <string name="btn3">评价app</string>
+    <string name="btn4">更多Apps</string>
+</resources>

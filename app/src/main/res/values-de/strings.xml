@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name"> TransparentWallpaper </string>
+
+    <string name = "_lease_open_permissions"> Bitte öffnen Sie die Berechtigungen </string>
+
+    <string name = "btn1"> Öffnen Sie das Live-Hintergrundbild der Rückfahrkamera </string>
+    <string name = "btn2"> Öffnen Sie das Live-Hintergrundbild der Frontkamera </string>
+    <string name = "btn3"> Überprüft die App </string>
+    <string name = "btn4"> Weitere Apps </string>
+</resources>

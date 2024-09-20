@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name"> 투명 배경 화면 </string>
+
+    <string name = "_lease_open_permissions"> 권한을여십시오. </string>
+
+    <string name = "btn1"> 후방 카메라 라이브 배경 화면 열기 </string>
+    <string name = "btn2"> 전면 카메라 라이브 배경 화면 열기 </string>
+    <string name = "btn3"> 리뷰 앱 </string>
+    <string name = "btn4"> 기타 앱 </string>
+</resources>

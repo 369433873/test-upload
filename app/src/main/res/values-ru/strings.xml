@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name">Прозрачные обои</string>
+
+    <string name = "_lease_open_permissions"> Пожалуйста, откройте разрешения </string>
+
+    <string name = "btn1"> Открыть живые обои задней камеры </string>
+    <string name = "btn2"> Открыть живые обои передней камеры </string>
+    <string name = "btn3"> Приложение с отзывами </string>
+    <string name = "btn4"> Другие приложения </string>
+</resources>

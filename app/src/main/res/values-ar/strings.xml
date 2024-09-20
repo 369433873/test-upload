@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ورق جدران شفاف</string>
+
+    <string name="_lease_open_permissions">الرجاء فتح الأذونات</string>
+
+    <string name="btn1">افتح الخلفية الحية للكاميرا الخلفية</string>
+    <string name="btn2">افتح خلفية حية للكاميرا الأمامية</string>
+    <string name="btn3">التعليقات التطبيق</string>
+    <string name="btn4">تطبيقات أكثر</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name"> TransparentWallpaper </string>
+
+    <string name = "_lease_open_permissions"> Abra los permisos </string>
+
+    <string name = "btn1"> Abra el fondo de pantalla en vivo de la cámara trasera </string>
+    <string name = "btn2"> Abra el fondo de pantalla en vivo de la cámara frontal </string>
+    <string name = "btn3"> Aplicación de reseñas </string>
+    <string name = "btn4"> Más aplicaciones </string>
+</resources>

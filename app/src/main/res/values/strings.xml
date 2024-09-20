@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TransparentWallpaper</string>
+
+    <string name="_lease_open_permissions">Please open permissions</string>
+
+    <string name="btn1">Open the rear camera live wallpaper</string>
+    <string name="btn2">Open the front camera live wallpaper</string>
+    <string name="btn3">Reviews App</string>
+    <string name="btn4">More Apps</string>
+    <string name="developer_name">https://play.google.com/store/apps/dev?id=7191921550189199597</string>
+</resources>

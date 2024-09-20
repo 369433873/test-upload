@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Papier peint transparent</string>
+
+    <string name="_lease_open_permissions">Veuillez ouvrir les autorisations</string>
+
+    <string name="btn1">Ouvrez le fond d écran en direct de la caméra arrière</string>
+    <string name="btn2">Ouvrez le fond d écran en direct de la caméra avant</string>
+    <string name="btn3">Avis sur les applications</string>
+    <string name="btn4">Plus d applications</string>
+</resources>

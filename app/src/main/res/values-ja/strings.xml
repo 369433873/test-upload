@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name">透明な壁紙</string>
+
+    <string name = "_lease_open_permissions">権限を開いてください</string>
+
+    <string name = "btn1">リアカメラのライブ壁紙を開く</string>
+    <string name = "btn2">フロントカメラのライブ壁紙を開く</string>
+    <string name = "btn3"> Avisアプリ</string>
+    <string name = "btn4">その他のアプリケーション</string>
+</resources>

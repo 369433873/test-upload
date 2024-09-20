@@ -1,0 +1,10 @@
+<resources>
+    <string name = "app_name">Papel de parede transparente </string>
+
+    <string name = "_lease_open_permissions"> Abra as permissões </string>
+
+    <string name = "btn1"> Abra o papel de parede ao vivo da câmera traseira </string>
+    <string name = "btn2"> Abra o papel de parede ao vivo da câmera frontal </string>
+    <string name = "btn3"> Críticas aplicativo </string>
+    <string name = "btn4"> Mais aplicativos </string>
+</resources>
